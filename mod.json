@@ -3,6 +3,6 @@
  "displayName": "minZoom",
  "version": "1.52",
  "author": "Mandu",
- "minGameVersion": "125",
+ "minGameVersion": "143",
  "hidden": "true"
 }
